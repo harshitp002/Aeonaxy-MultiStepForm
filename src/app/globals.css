@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  margin: 0;
+  padding: 0;
+
+}
+
+.heading{
+  @apply text-xl font-semibold ;
+ }
+
+.sub-heading{
+  @apply font-normal text-base text-neutral-500 mt-6;
+}
+
