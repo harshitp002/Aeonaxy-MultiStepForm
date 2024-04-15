@@ -21,5 +21,5 @@ npm run dev
 ```
 ## Live Demo
 
-You can view the live demo of the website on: |https://1multistepform.netlify.app/|
+You can view the live demo of the website on: https://1multistepform.netlify.app/
 
